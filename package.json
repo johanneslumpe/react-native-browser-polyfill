@@ -1,14 +1,20 @@
 {
   "name": "react-native-browser-polyfill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of polyfills for the react-native Javascript environment.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johanneslumpe/react-native-browser-polyfill.git"
+  },
   "keywords": [
     "react-native"
   ],
+  "author": "Johannes Lumpe <johannes@lum.pe> (https://github.com/johanneslumpe)",
+  "license": "MIT",
   "author": "Johannes Lumpe",
   "license": "MIT"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "react-native-browser-polyfill",
+  "version": "0.1.0",
+  "description": "A collection of polyfills for the react-native Javascript environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Johannes Lumpe",
+  "license": "MIT"
+}

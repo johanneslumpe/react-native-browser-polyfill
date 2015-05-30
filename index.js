@@ -1,0 +1,1 @@
+require('./polyfills/globalself');

@@ -1,6 +1,6 @@
 {
   "name": "react-native-browser-polyfill",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A collection of polyfills for the react-native Javascript environment.",
   "main": "index.js",
   "scripts": {

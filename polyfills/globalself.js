@@ -5,4 +5,4 @@
  * and web-workers alike.
  */
 
-global.self = global;
+if (typeof global.self === "undefined") global.self = global;
